@@ -3,6 +3,7 @@ Given details about a transaction determine whether the transaction is a Fraud o
 # Columns
 
 *TransactionDT: timedelta from a given reference datetime (not an actual timestamp) “TransactionDT "corresponds to the number of seconds in a day.
+
 *TransactionAMT: transaction payment amount in USD
 *ProductCD: product code, the product for each transaction
 *card1 - card6: payment card information, such as card type, card category, issue bank, country, etc.
