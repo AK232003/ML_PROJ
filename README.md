@@ -30,3 +30,11 @@ Given details about a transaction determine whether the transaction is a Fraud o
 * id01 to id11 are numerical features for identity.
 
 * Other columns such as network connection information (IP, ISP, Proxy, etc),digital signature (UA/browser/os/version, etc) associated with transactions are also present.
+
+# Instructions to run the Code for any py file
+
+* Make sure you have all the required packages installed (Check the config File incase)
+
+* To install a package, general command is as follows - pip3 install packagename
+
+* To run the code, run command - python3 pythonfilename
